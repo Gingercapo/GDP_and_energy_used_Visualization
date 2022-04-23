@@ -15,7 +15,7 @@ Often you will work with datasets that are missing information. Whether or not y
 
 Luckily, your project is only concerned with the data from 2000-2011. You need an efficient way to utilize some data from one source, and some data from other sources.
 
-- Taking just the information that you need from each source and creating a new data source takes a lot of time.Tableau allows you to link data from different sources, as well as import data from different formats. While I will be working with one in this Project, 
+- Taking just the information that you need from each source and creating a new data source takes a lot of time.Tableau allows you to link data from different sources, as well as import data from different formats, While I will be working with one in this Project, 
 
 - Tableau allows you to use a Web Data Connector. This tool allows you to import the data you need directly from another site. Your visualizations will update when the data sources for your visualization are updated.
 
